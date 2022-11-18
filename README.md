@@ -11,7 +11,7 @@ DELETE − Delete
 The Angular HTTP course teaches basic, as well as advanced features of Angular HTTP Communication.  
 Original Source Code: https://bit.ly/3w7Cru4
 
-This is what I'm learning in this course at the time of this publication, as well as the timing of each topic in the video:
+##### This is what I'm learning in this course at the time of this publication, as well as the timing of each topic in the video:
 
 HTTP 6:32  
 RESTful Web Service 7:59  
@@ -43,25 +43,3 @@ HTTP Headers 1 1:24:24
 HTTP Headers 2 1:28:34  
 HTTP Request Parameters 1 1:37:21  
 HTTP Request Parameters 2 1:39:19  
-HTTP Events 1:48:09  
-HTTP Request Progress 1 1:51:13  
-HTTP Request Progress 2 2:01:14  
-HTTP Request Progress 3 2:07:09  
-Request Text Data Type 2:16:32  
-Data Manipulation 2:25:05  
-Reactive Programming 2:27:28  
-Intro to RxJS 2:32:41  
-RxJS Tap Operator 2:35:43  
-RxJS Map Operator 1 2:39:12  
-RxJS Map Operator 2 2:45:56  
-RxJS Map Operator 3 2:50:50  
-RxJS Map Operator 4 2:55:09  
-RxJS Retry Operator 2:58:51  
-Error Handling 3:02:59  
-Error Catch and Replace 1 3:05:43  
-Error Catch and Replace 2 3:07:36  
-Error Catch and Re-throw 1 3:11:30  
-Error Catch and Re-throw 2 3:12:30  
-Angular Interceptor 1 3:18:59  
-Angular Interceptor 2 3:20:39  
-Angular Interceptor 3 3:22:09  
